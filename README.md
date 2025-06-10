@@ -95,3 +95,12 @@ application and `load` the entire application.
 # Requirements
 - Python3
 - Make
+
+
+## TODO
+I remembered a feature of Emacs and decided to implement it. However, I didn't know the vocabulary
+for the concepts I was implementing. TODO(tyler): Learn the jargon and update the readme.
+- Dynamic Evaluation: Being able to dynamically evaluate an expression with a function like `exec`.
+  or `eval`.
+- Interactive Development: Being able to extend the codebase of the application while in the application
+  itself "on the fly".
