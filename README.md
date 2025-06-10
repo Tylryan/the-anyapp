@@ -31,11 +31,6 @@ with the `load` function.
 ```python
 load("path/to/your/extention.py")
 ```
-The reason this is an AnyApp (like Emacs), is because the app can evaluate itself.
-This means that if a user wanted to extend the application itself, they can write 
-a new feature in another file, update the base application (using the base 
-application), and reevaluate the modified application while the application is 
-running (Hot Reloading).
 
 # Examples
 ## Loading Modules
