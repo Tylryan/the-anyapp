@@ -1,0 +1,6 @@
+
+
+
+
+print("Appending Hello world card")
+deck.append(Card("Hello", "World"))
